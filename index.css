@@ -6,8 +6,16 @@ body {
     margin-top: 45vh;
 }
 
+#window {
+    font-family: "Montserrat", Sans-serif;
+}
+
 .kill {
     text-align: right;
+}
+
+.widcnt {
+    width: 89vw;
 }
 
 .gnt-crd {
